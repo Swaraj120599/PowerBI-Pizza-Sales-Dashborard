@@ -12,32 +12,32 @@ The Power BI Sales Dashboard is designed to help businesses analyze their sales 
 
 
 # 🔥 Key Features:-
--📈 **Sales Trends Analysis** – Track revenue and profit across different time periods.
+- 📈 **Sales Trends Analysis** – Track revenue and profit across different time periods.
 
--💰 **Profit Distribution by Market** – Identify the most and least profitable regions.
+- 💰 **Profit Distribution by Market** – Identify the most and least profitable regions.
 
--🛍 **Product Performance Insights** – Analyze best-selling and underperforming products.
+- 🛍 **Product Performance Insights** – Analyze best-selling and underperforming products.
 
--👥 **Customer Segmentation** – Understand purchase behavior across different customer types.
+- 👥 **Customer Segmentation** – Understand purchase behavior across different customer types.
 
--📊 **Profit vs. Revenue Comparison** – Visualize profitability against revenue generation.
+- 📊 **Profit vs. Revenue Comparison** – Visualize profitability against revenue generation.
 
--🌍 **Market Contribution** – Evaluate contributions of different regions to overall sales.
+- 🌍 **Market Contribution** – Evaluate contributions of different regions to overall sales.
 
 
 # 🔍 Key Insights:-
--📈 Peak sales were observed in 2018, followed by a gradual decline in revenue in the following years.
+- 📈 Peak sales were observed in 2018, followed by a gradual decline in revenue in the following years.
 
--🏙️ Delhi NCR and Mumbai contributed the highest profits, identifying them as critical profit centers.
+- 🏙️ Delhi NCR and Mumbai contributed the highest profits, identifying them as critical profit centers.
 
--🧭 Cities like Bengaluru, Bhubaneshwar, and Surat showed the lowest profit contributions.
+- 🧭 Cities like Bengaluru, Bhubaneshwar, and Surat showed the lowest profit contributions.
 
--🛒 E-commerce sales accounted for 75.63% of total revenue, significantly outperforming brick-and-mortar channels.
+- 🛒 E-commerce sales accounted for 75.63% of total revenue, significantly outperforming brick-and-mortar channels.
 
--🍕 Top-performing products include Prod318, Prod316, and Prod324, which together generated the highest combined revenue.
+- 🍕 Top-performing products include Prod318, Prod316, and Prod324, which together generated the highest combined revenue.
 
--📅 November and March recorded the highest total product sales, indicating seasonal spikes in demand.
+- 📅 November and March recorded the highest total product sales, indicating seasonal spikes in demand.
 
--🌆 Revenue generation was dominated by Delhi NCR and Mumbai, confirming them as key business hubs.
+- 🌆 Revenue generation was dominated by Delhi NCR and Mumbai, confirming them as key business hubs.
 
--⚠️ Profitability trends declined sharply post-2018, suggesting potential market saturation or influence from external factors.
+- ⚠️ Profitability trends declined sharply post-2018, suggesting potential market saturation or influence from external factors.
