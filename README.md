@@ -1,6 +1,6 @@
 # 📌 Overview:-
 
-This repository contains a Power BI Sales Analysis Dashboard, providing insights into revenue, profit trends, and market performance. The dashboard offers interactive visualizations and data-driven storytelling to support business decisions.
+This repository contains a **Power BI  Pizza Sales Analysis Dashboard**, providing insights into revenue, profit trends, and market performance. The dashboard offers interactive visualizations and data-driven storytelling to support business decisions.
 
 # 📊 Project Overview:-
 
